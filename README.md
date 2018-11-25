@@ -47,3 +47,4 @@ Apply [VQG dataset](https://arxiv.org/abs/1603.06059) instead of VQA to ask more
 - [tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg)
 # VQG-VQA-model
 # VQG-VQA-model
+# VQG-VQA-model
